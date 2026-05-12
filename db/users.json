@@ -16,5 +16,26 @@
       "islamic"
     ],
     "server_num": 13
+  },
+  "maram": {
+    "username": "maram",
+    "password": "kafVib-fymsiw-2pibte",
+    "student_type": "علمي",
+    "telegram_user_id": "8277706635",
+    "telegram_username": null,
+    "telegram_first_name": "MARAM AlZORGANI",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_65.jpg",
+    "session_id": "735c37c0-0a17-4453-93f5-c4d5568f0663",
+    "created_at": "2026-05-11T22:45:41.074896",
+    "verified": true,
+    "last_login": "2026-05-11T22:48:08.627362",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "biology",
+      "physics_mechanic",
+      "math"
+    ],
+    "server_num": 13
   }
 }
