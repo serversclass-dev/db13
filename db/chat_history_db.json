@@ -181,5 +181,38 @@
     "last_file": "p5.txt",
     "subject": "biology",
     "saved_at": "2026-05-12T16:59:27.576707"
+  },
+  "ali___islamic": {
+    "username": "ali_",
+    "subject_id": "islamic",
+    "messages": [
+      {
+        "role": "user",
+        "content": "ما هي المواضيع المتاحة؟",
+        "timestamp": "2026-06-04T04:32:05.614564+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-04T04:32:07.012640+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "ما هي المواضيع المتاحة؟",
+        "timestamp": "2026-06-04T04:32:05.614564+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "عذراً، حدث خطأ في النظام. حاول مرة أخرى.",
+        "timestamp": "2026-06-04T04:32:07.012640+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 2,
+    "last_file": "main.txt",
+    "subject": "islamic",
+    "saved_at": "2026-06-04T04:32:07.012688"
   }
 }
