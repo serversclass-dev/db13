@@ -37,5 +37,23 @@
       "math"
     ],
     "server_num": 13
+  },
+  "ali_": {
+    "username": "ali_",
+    "password": "00643ali!A",
+    "student_type": "علمي",
+    "telegram_user_id": "5117372520",
+    "telegram_username": null,
+    "telegram_first_name": "A",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_118.jpg",
+    "session_id": "3c63cb34-3e25-4b80-826a-012b24cffc99",
+    "created_at": "2026-06-04T04:25:35.396586",
+    "verified": true,
+    "last_login": "2026-06-04T04:30:10.922642",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 13
   }
 }
